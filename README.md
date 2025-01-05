@@ -1,1 +1,1 @@
-# top-down-shooter
+# 2d-shooter
